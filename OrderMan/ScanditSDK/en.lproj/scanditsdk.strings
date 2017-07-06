@@ -1,0 +1,13 @@
+/* 
+   scanditsdk.strings
+   ScanditSDKDemo
+
+   Copyright 2011 Mirasense AG. All rights reserved.
+ */
+
+"scanditsdk_init_message" = "Initializing camera...";
+"scanditsdk_searchbar_action_button_caption" = "Go";
+"scanditsdk_searchbar_cancel_button_caption" = "Cancel";
+"scanditsdk_searchbar_placeholder" = "Scan barcode or enter it here";
+"scanditsdk_toolbar_button_caption" = "Cancel";
+"scanditsdk_toolbar_buffer_caption" = "Canceling...";
